@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "991454021653",
+    "firebase_url": "https://bugle-india.firebaseio.com",
+    "project_id": "bugle-india",
+    "storage_bucket": "bugle-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991454021653:android:984e0c36e1c5512b",
+        "android_client_info": {
+          "package_name": "buglecs.mypc.bugletest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991454021653-1kpv63440q8644sl2dfj4rh2dggjtgc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi4XesLjo-nDV2wLQt609X-Qv0aOy8fPY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
